@@ -10,7 +10,7 @@ namespace cs2_dumper {
     namespace buttons {
         constexpr std::ptrdiff_t attack = 0x1875710;
         constexpr std::ptrdiff_t attack2 = 0x18757A0;
-        constexpr std::ptrdiff_t back = 0x18759E0;
+        constexpr std::ptrdiff_t back = 0x18759E0; 
         constexpr std::ptrdiff_t duck = 0x1875CB0;
         constexpr std::ptrdiff_t forward = 0x1875950;
         constexpr std::ptrdiff_t jump = 0x1875C20;
