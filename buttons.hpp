@@ -6,7 +6,7 @@
 #include <cstddef>
 
 namespace cs2_dumper {
-    // Module: client.dll 
+    // 
     namespace buttons {
         constexpr std::ptrdiff_t attack = 0x1875710;
         constexpr std::ptrdiff_t attack2 = 0x18757A0;
